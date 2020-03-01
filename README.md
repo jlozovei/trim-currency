@@ -44,7 +44,7 @@ First, fork the project. After it, install the dependencies (preferably using [y
 Also, take a look at the [contributing guide](https://github.com/jlozovei/trim-currency/blob/master/.github/CONTRIBUTING.md) and follow the steps!
 
 
-## :thinking_face: I want to use it, but I don't want to install it
+## :thinking: I want to use it, but I don't want to install it
 Cool! So, the magic under the hood is basically removing all the `non-digits characters` from the string, using a regular expression (a.k.a. RegExp):
 
 ```js
