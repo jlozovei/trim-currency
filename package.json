@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/jlozovei/trim-currency.git"
   },
-  "author": "Julio Lozovei <jlozovei@gmail.com>",
+  "author": "Julio Lozovei <jlozovei@gmail.com> (https://jlozovei.dev)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jlozovei/trim-currency/issues"
