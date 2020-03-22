@@ -1,6 +1,16 @@
 # @jlozovei/trim-currency
 A cool JS helper to trim/clean currency values! :money_with_wings:
 
+---
+
+![Coverage](./coverage/badge.svg "Coverage")
+![Coverage Branches](./coverage/badge-branches.svg "Coverage Branches")
+![Coverage Functions](./coverage/badge-functions.svg "Coverage Functions")
+![Coverage Lines](./coverage/badge-lines.svg "Coverage Lines")
+![Coverage Statements](./coverage/badge-statements.svg "Coverage Statements")
+
+---
+
 
 ## :scroll: About
 If you already have to deal with currency numbers with JS, you know the struggle is real.
@@ -41,7 +51,7 @@ const cleanCurrency = trimCurrency('$1,000,000.00'); // 100000000 (as Number)
 ## :computer: Developing
 First, fork the project. After it, install the dependencies (preferably using [yarn](https://yarnpkg.com/) - since the project is using it) and do the work.
 
-Also, take a look at the [contributing guide](https://github.com/jlozovei/trim-currency/blob/master/.github/CONTRIBUTING.md) and follow the steps!
+Also, take a look at the [contributing guide](https://github.com/jlozovei/trim-currency/blob/master/.github/CONTRIBUTING.md)!
 
 
 ## :thinking: I want to use it, but I don't want to install it
