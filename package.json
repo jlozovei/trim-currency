@@ -4,6 +4,7 @@
   "description": "A cool JS helper to trim/clean currency values",
   "main": "index.js",
   "scripts": {
+    "build": "rollup -c",
     "format": "prettier \"{./,tests}/*.js\" --write",
     "test:dev": "jest",
     "test": "jest --coverage --watchAll=false",
@@ -19,6 +20,9 @@
     "url": "https://github.com/jlozovei/trim-currency/issues"
   },
   "homepage": "https://github.com/jlozovei/trim-currency#readme",
+  "files": [
+    "dist"
+  ],
   "dependencies": {
     "@babel/core": "^7.8.6",
     "@babel/preset-env": "^7.8.6",
