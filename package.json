@@ -2,7 +2,7 @@
   "name": "@jlozovei/trim-currency",
   "version": "0.0.1",
   "description": "A cool JS helper to trim/clean currency values",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "rollup -c",
     "format": "prettier \"{./,tests}/*.js\" --write",
@@ -22,6 +22,10 @@
   "homepage": "https://github.com/jlozovei/trim-currency#readme",
   "files": [
     "dist"
+  ],
+  "keywords": [
+    "currency",
+    "trim"
   ],
   "dependencies": {
     "@babel/core": "^7.8.6",
