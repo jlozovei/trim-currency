@@ -3,11 +3,11 @@ A cool JS helper to trim/clean currency values! :money_with_wings:
 
 ---
 
-![Coverage](https://raw.githubusercontent.com/jlozovei/trim-currency/master/coverage/badge.svg "Coverage")
-![Coverage Branches](https://raw.githubusercontent.com/jlozovei/trim-currency/master/coverage/badge-branches.svg "Coverage Branches")
-![Coverage Functions](https://raw.githubusercontent.com/jlozovei/trim-currency/master/coverage/badge-functions.svg "Coverage Functions")
-![Coverage Lines](https://raw.githubusercontent.com/jlozovei/trim-currency/master/coverage/badge-lines.svg "Coverage Lines")
-![Coverage Statements](https://raw.githubusercontent.com/jlozovei/trim-currency/master/coverage/badge-statements.svg "Coverage Statements")
+![Coverage](https://raw.githubusercontent.com/jlozovei/trim-currency/master/coverage/badge.svg?sanitize=true "Coverage")
+![Coverage Branches](https://raw.githubusercontent.com/jlozovei/trim-currency/master/coverage/badge-branches.svg?sanitize=true "Coverage Branches")
+![Coverage Functions](https://raw.githubusercontent.com/jlozovei/trim-currency/master/coverage/badge-functions.svg?sanitize=true "Coverage Functions")
+![Coverage Lines](https://raw.githubusercontent.com/jlozovei/trim-currency/master/coverage/badge-lines.svg?sanitize=true "Coverage Lines")
+![Coverage Statements](https://raw.githubusercontent.com/jlozovei/trim-currency/master/coverage/badge-statements.svg?sanitize=true "Coverage Statements")
 
 ---
 
