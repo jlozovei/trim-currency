@@ -1,6 +1,6 @@
 {
   "name": "@jlozovei/trim-currency",
-  "version": "0.0.1",
+  "version": "0.0.0-development",
   "description": "A cool JS helper to trim/clean currency values",
   "main": "dist/index.js",
   "scripts": {
@@ -8,11 +8,12 @@
     "format": "prettier \"{./,tests}/*.js\" --write",
     "test:dev": "jest",
     "test": "jest --coverage --watchAll=false",
-    "posttest": "yarn jest-coverage-badges && yarn make-coverage-badge"
+    "posttest": "yarn jest-coverage-badges && yarn make-coverage-badge",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jlozovei/trim-currency.git"
+    "url": "https://github.com/jlozovei/trim-currency.git"
   },
   "author": "Julio Lozovei <jlozovei@gmail.com> (https://jlozovei.dev)",
   "license": "MIT",
@@ -41,7 +42,8 @@
     "jest": "^25.1.0",
     "jest-coverage-badges": "^1.1.2",
     "make-coverage-badge": "^1.2.0",
-    "prettier": "^1.19.1"
+    "prettier": "^1.19.1",
+    "semantic-release": "^17.0.4"
   },
   "husky": {
     "hooks": {
@@ -107,5 +109,5 @@
       ],
       "prettier/prettier": "error"
     }
-  } 
+  }
 }
