@@ -3,11 +3,11 @@ A cool JS helper to trim/clean currency values! :money_with_wings:
 
 ---
 
-![Coverage](./coverage/badge.svg "Coverage")
-![Coverage Branches](./coverage/badge-branches.svg "Coverage Branches")
-![Coverage Functions](./coverage/badge-functions.svg "Coverage Functions")
-![Coverage Lines](./coverage/badge-lines.svg "Coverage Lines")
-![Coverage Statements](./coverage/badge-statements.svg "Coverage Statements")
+![Coverage](https://raw.githubusercontent.com/jlozovei/trim-currency/master/coverage/badge.svg "Coverage")
+![Coverage Branches](https://raw.githubusercontent.com/jlozovei/trim-currency/master/coverage/badge-branches.svg "Coverage Branches")
+![Coverage Functions](https://raw.githubusercontent.com/jlozovei/trim-currency/master/coverage/badge-functions.svg "Coverage Functions")
+![Coverage Lines](https://raw.githubusercontent.com/jlozovei/trim-currency/master/coverage/badge-lines.svg "Coverage Lines")
+![Coverage Statements](https://raw.githubusercontent.com/jlozovei/trim-currency/master/coverage/badge-statements.svg "Coverage Statements")
 
 ---
 
