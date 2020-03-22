@@ -22,7 +22,6 @@
     "@babel/core": "^7.8.6",
     "@babel/preset-env": "^7.8.6",
     "@babel/register": "^7.8.6",
-    "jest": "^25.1.0",
     "rollup": "^1.32.0"
   },
   "devDependencies": {
@@ -30,6 +29,7 @@
     "eslint-config-prettier": "^6.10.0",
     "eslint-plugin-prettier": "^3.1.2",
     "husky": "^4.2.3",
+    "jest": "^25.1.0",
     "jest-coverage-badges": "^1.1.2",
     "make-coverage-badge": "^1.2.0",
     "prettier": "^1.19.1"
@@ -41,7 +41,7 @@
   },
   "jest": {
     "collectCoverageFrom": [
-      "src/**/*.{js,jsx,ts,tsx}"
+      "**/*.js"
     ],
     "coverageReporters": [
       "json-summary",
