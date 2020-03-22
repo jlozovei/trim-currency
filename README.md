@@ -26,7 +26,7 @@ First things first: you need to install the package:
 ```bash
 npm i @jlozovei/trim-currency
 
-# or yarn add @jlozovei/format-money
+# or yarn add @jlozovei/trim-currency
 ```
 
 After that, you'll need to import the helper wherever you want to use it:
