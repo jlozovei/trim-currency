@@ -8,7 +8,6 @@
     "format": "prettier \"{./,tests}/*.js\" --write",
     "test:dev": "jest",
     "test": "jest --coverage --watchAll=false",
-    "posttest": "codecov",
     "semantic-release": "semantic-release"
   },
   "repository": {
@@ -35,7 +34,6 @@
     "rollup": "^1.32.0"
   },
   "devDependencies": {
-    "codecov": "^3.6.5",
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.10.0",
     "eslint-plugin-prettier": "^3.1.2",
