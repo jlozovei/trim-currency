@@ -8,7 +8,6 @@
     "format": "prettier \"{./,tests}/*.js\" --write",
     "test:dev": "jest",
     "test": "jest --coverage --watchAll=false",
-    "posttest": "yarn jest-coverage-badges && yarn make-coverage-badge",
     "semantic-release": "semantic-release"
   },
   "repository": {
@@ -58,7 +57,8 @@
       "json-summary",
       "text",
       "lcov"
-    ]
+    ],
+    "coverageDirectory": "./coverage/"
   },
   "prettier": {
     "printWidth": 100,

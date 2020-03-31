@@ -1,15 +1,9 @@
 # @jlozovei/trim-currency
 A cool JS helper to trim/clean currency values! :money_with_wings:
 
----
-
-![Coverage](https://raw.githubusercontent.com/jlozovei/trim-currency/master/coverage/badge.svg?sanitize=true "Coverage")
-![Coverage Branches](https://raw.githubusercontent.com/jlozovei/trim-currency/master/coverage/badge-branches.svg?sanitize=true "Coverage Branches")
-![Coverage Functions](https://raw.githubusercontent.com/jlozovei/trim-currency/master/coverage/badge-functions.svg?sanitize=true "Coverage Functions")
-![Coverage Lines](https://raw.githubusercontent.com/jlozovei/trim-currency/master/coverage/badge-lines.svg?sanitize=true "Coverage Lines")
-![Coverage Statements](https://raw.githubusercontent.com/jlozovei/trim-currency/master/coverage/badge-statements.svg?sanitize=true "Coverage Statements")
-
----
+[![codecov](https://codecov.io/gh/jlozovei/trim-currency/branch/master/graph/badge.svg)](https://codecov.io/gh/jlozovei/trim-currency)
+[![coverage](https://img.shields.io/codecov/c/github/jlozovei/trim-currency?token=5f6c8a3c-d9bb-4c62-8099-f6881b4a28d8)]()
+![Release](https://github.com/jlozovei/trim-currency/workflows/Release/badge.svg?branch=master)
 
 
 ## :scroll: About
@@ -42,14 +36,12 @@ const trimCurrency = require('@jlozovei/trim-currency');
 Then, you'll be able to use it:
 
 ```js
-import trimCurrency from '@jlozovei/trim-currency';
-
 const cleanCurrency = trimCurrency('$1,000,000.00'); // 100000000 (as Number)
 ```
 
 
 ## :computer: Developing
-First, fork the project. After it, install the dependencies (preferably using [yarn](https://yarnpkg.com/) - since the project is using it) and do the work.
+First, fork the project. After it, install the dependencies (preferably using [npm](https://www.npmjs.com/) - since the project is using it) and do the work.
 
 Also, take a look at the [contributing guide](https://github.com/jlozovei/trim-currency/blob/master/.github/CONTRIBUTING.md)!
 
