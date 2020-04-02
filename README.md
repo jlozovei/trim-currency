@@ -2,7 +2,6 @@
 A cool JS helper to trim/clean currency values! :money_with_wings:
 
 [![codecov](https://codecov.io/gh/jlozovei/trim-currency/branch/master/graph/badge.svg)](https://codecov.io/gh/jlozovei/trim-currency)
-[![coverage](https://img.shields.io/codecov/c/github/jlozovei/trim-currency?token=5f6c8a3c-d9bb-4c62-8099-f6881b4a28d8)]()
 ![Release](https://github.com/jlozovei/trim-currency/workflows/Release/badge.svg?branch=master)
 
 
